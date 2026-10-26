@@ -1,5 +1,3 @@
-An empty list is correct until you add your folder. If it asks for a key you did not dump yourself, stop. Do not follow a page that offers ROMs. Point it at a folder that already holds your dump. Keys, if they are required, come from the same console. A downloaded key pack is not part of setup.
-
 # Panda3DS - A 3DS Emulator for Dumps You Made
 
 Panda3DS runs Nintendo 3DS software from files you dumped off a console you own. The emulator does not include games, keys, or a shop. You supply the dump. If you do not already have a file you made from hardware you may use, there is nothing to load. This page does not say where to download games.
